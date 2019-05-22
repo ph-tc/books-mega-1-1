@@ -269,7 +269,7 @@ img {
 	text-decoration: none;
 }
 
-@media screen and (max-height: 240px) {
+@media screen and (max-height: 260px) {
 	.main .menu {
 		display: none;
 	}
